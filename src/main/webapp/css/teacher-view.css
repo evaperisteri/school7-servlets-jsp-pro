@@ -1,0 +1,28 @@
+.btn{
+  background-color: var(--color-blue-dark);
+  border-radius: 10px;
+  margin: auto;
+  text-decoration: none;
+  color: white;
+}
+
+.container{
+  height: 70vh;
+  align-items: center;
+}
+
+.viewteacherslink {
+  text-decoration: none;
+  font-size: larger;
+  color: white;
+}
+.d-flex{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn-size{
+  padding: 5px;
+  background-color: var(--color-blue-dark);
+  border-radius: 10px;
+}
